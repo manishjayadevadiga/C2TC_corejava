@@ -1,6 +1,8 @@
 # C2TC_corejava
 Contains all the Day-to-day projects created during TNSIF C2TC
 
+📌Make sure you check the "Connection PDF"
+
 
 📌 You can see the programs in " src " folder.
 --------------------------------------------------------------------------------------------------------
