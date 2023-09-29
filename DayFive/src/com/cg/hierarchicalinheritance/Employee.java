@@ -1,4 +1,4 @@
-package com.cg.hierarchialinheritance;
+package com.cg.hierarchicalinheritance;
 
 public class Employee extends Person {
 	

@@ -1,6 +1,6 @@
-package com.cg.hierarchialinheritance;
+package com.cg.hierarchicalinheritance;
 
-public class HierrarchialInheritanceDemo {
+public class HierrarchicalInheritanceDemo {
 
 	public static void main(String[] args) {
 		
