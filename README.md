@@ -80,3 +80,15 @@ This project contains the below class:
 5.Now inside com.cg.hierarchicalinheritance --> create 4 classes --> Person , Student , Employee , HierarchicalInheritanceDemo (psvm)
 
 ------------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DaySix                                 📌  Here psvm means " use of public static void main "
+
+📌Discussed about " STATIC KEYWORD " --> includes static class , static method , static variable , static block
+
+1.Create a package called --> com.cg.static keyword.
+2.Inside this package create 4 classes as shown below:
+   1)--> Student
+   2)--> StaticVariableDemo (psvm)
+   3)--> StaticClassDemo (psvm)
+   4)--> StaticMethodDemo (psvm)    ----> we have discussed about "STATIC BLOCK" inside this
+
+-----------------------------------------------------------------------------------------------------------
