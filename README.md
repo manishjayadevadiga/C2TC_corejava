@@ -92,3 +92,33 @@ This project contains the below class:
    4)--> StaticMethodDemo (psvm)    ----> we have discussed about "STATIC BLOCK" inside this
 
 -----------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DaySeven                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about " POLYMORPHISM " --> includes Overloading , Overriding , Final Keyword
+
+1.Create 3 packages:
+       1) com.cg.overloading --> 3 classes: -> Points , MethodOverloading , OverloadingDemo (psvm)
+       2) com.cg.overriding  --> 5 classes: -> RBI , SBI , ICICI , HDFC , OverridingDemo (psvm)
+       3)com.cg.finalkeyword --> 4 classes: -> FnalVariable (psvm) , FinalMethod , Demo , ClassDemo , Test
+
+-----------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DayEight                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about " ABSTRACTION " --> includes abstarct keyword , Concrete class
+
+1.Create a package com.cg.abstractclass.
+   Inside this create 7 classes: -> Demo , Main (psvm) , Notes , Rectangle , Shape , Square , AbstractionDemo (psvm)
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
