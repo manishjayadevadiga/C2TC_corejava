@@ -1,7 +1,7 @@
 # C2TC_corejava
 Contains all the Day-to-day projects created during TNSIF C2TC
 
-📌 Make sure you check the "Steps Eclipse Git Connection" for connecting ECLIPSE and GITHUB.
+📌 Make sure you ⚠️⚠️check the "Steps Eclipse Git Connection" for connecting ECLIPSE and GITHUB.
 ⚠️ I have also solved the " master -> master [rejected - non-fast-forward ] " ERROR which we get while uploading future files.
 
 
