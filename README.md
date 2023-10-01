@@ -5,7 +5,7 @@ Contains all the Day-to-day projects created during TNSIF C2TC
 ⚠️ I have also solved the " master -> master [rejected - non-fast-forward ] " ERROR which we get while uploading future files.
 
 
-📌 You can see the programs in " src " folder.
+📌 You can see the programs in " src " folder
 --------------------------------------------------------------------------------------------------------
 🎗️PROJECT -> DayOne          
 
