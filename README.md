@@ -144,7 +144,7 @@ Create 2 packages : ->
 2) com.cg.exceptionHandlling : class -> Finally (psvm), ThrowExample (psvm), ThrowsExample (psvm), UserDefinedException (psvm)
 
 -------------------------------------------------------------------------------------------------------------
-🎗️PROJECT -> DayTweleve                                📌  Here psvm means " use of public static void main "
+🎗️PROJECT -> DayTwelve                                📌  Here psvm means " use of public static void main "
 
 📌Discussed about "COLLECTIONS -> Comparable , comparator , generics(class,constructor,method) , list-interface ,ARRAYLIST , LINKEDLIST"
 
