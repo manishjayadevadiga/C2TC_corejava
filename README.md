@@ -104,12 +104,59 @@ This project contains the below class:
 -----------------------------------------------------------------------------------------------------------
 🎗️PROJECT -> DayEight                                📌  Here psvm means " use of public static void main "
 
-📌Discussed about " ABSTRACTION " --> includes abstarct keyword , Concrete class
+📌Discussed about " ABSTRACTION and INTERFACE,implementable class and MULTIPLE INHERITANCE" --> includes abstarct keyword , Concrete class
 
-1.Create a package com.cg.abstractclass.
-   Inside this create 7 classes: -> Demo , Main (psvm) , Notes , Rectangle , Shape , Square , AbstractionDemo (psvm)
+1.Create 2 package com.cg.abstractclass , com.cg.interfacepackage
+
+   1)Inside 1st package 7 classes: -> Demo , Main (psvm) , Notes , Rectangle , Shape , Square , AbstractionDemo (psvm)
+
+   2)Inside 2nd package 8 classes: -> Bike , Inf1 , Inf2 , InfImpl , InterfaceExample (psvm), MultipleInheritanceDemo , Notes , RoyalEnfield
 
 ---------------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DayNine                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about "WRAPPER CLASS(AutoBoxing , Unboxing) AND STRINGS (Operations , assignments , stringbuffer)"
+
+Create 2 packages - >  com.cg.wrapperclass , com.cg.stringexamples.
+
+1)Inside wrapper package create a class WrapperClassDemo
+2) Inside String make 3 class StringBufferDemo , StringBufferExample, StringOperationsDemo
+
+
+One more package named "assignment" has all the related works with more examples.
+
+---------------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DayTen                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about "ARRAYS -> Types, Jagged Arrays ,Operations on arrays"
+
+Create a package : -> com.cg.arrayexamples.
+Inside this make 7 classes: -> ArrayClassDemo (psvm), ArrayOfObjects (psvm), JaggedArrayDemo (psvm), MLArray , MultiDimensionalArrayDemo (psvm), Notes , Student
+
+-------------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DayEleven                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about "EXCEPTION HANDLING -> try , catch , finally , throw , throws , user-defined exception and ERRORS"
+
+Create 2 packages : -> 
+
+1)default : class-> CompileTimeException(psvm) , Demo(psvm) ,ExampleOne (psvm), ExampleTwo (psvm), Main(psvm)
+2) com.cg.exceptionHandlling : class -> Finally (psvm), ThrowExample (psvm), ThrowsExample (psvm), UserDefinedException (psvm)
+
+-------------------------------------------------------------------------------------------------------------
+🎗️PROJECT -> DayTweleve                                📌  Here psvm means " use of public static void main "
+
+📌Discussed about "COLLECTIONS -> Comparable , comparator , generics(class,constructor,method) , list-interface ,ARRAYLIST , LINKEDLIST"
+
+Create 3 packages:
+
+1)com.cg.comparableandcomparator: -> List (psvm) , Person < Student
+
+2)com.cg.genericsexample: ->GenericClass ,GenericClassDemo (psvm), GenericConstructor , GenericConstructorDemo (psvm), GenericMethod, GenericMethodDemo (psvm), Person
+
+3)com.cg.listinterfaceexample: -> ArrayListDemo (psvm) , LinkedListDemo (psvm) , Notes , Person
+
+-------------------------------------------------------------------------------------------------------------
 
 
 
